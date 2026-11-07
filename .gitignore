@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# PyInstaller build artifacts (rebuild with build/econwatch.spec)
+build/econwatch/
+build/*.log
+dist/
+
+# local runtime files
+*.log
+econwatch_error.log
+
+# OS
+Thumbs.db
+.DS_Store
